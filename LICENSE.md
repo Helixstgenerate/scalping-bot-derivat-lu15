@@ -1,4 +1,4 @@
-# 
+# ultimate scalping bot for derivatives Utility | risk-management + perpetual-trading is the best scalping bot for derivatives, featuring risk-management and perpetual-trading.
 
 
 
